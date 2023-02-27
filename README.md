@@ -4,4 +4,4 @@
 Lawlie
 Leonhart
 
-[lorem ipsum](http://google.com)
+[My Profile](http://google.com)
