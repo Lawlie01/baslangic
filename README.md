@@ -1,7 +1,6 @@
-# Deneme
+# Başlangıç
 
 ## Alt Bilgi
-Lawlie
-Leonhart
+Lawlie Leonhart
 
 [My Profile](http://google.com)
