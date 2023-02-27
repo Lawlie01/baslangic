@@ -4,4 +4,4 @@
 Lawlie
 Leonhart
 
-[loremipsum] (http://google.com)
+[lorem ipsum](http://google.com)
