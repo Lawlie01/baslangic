@@ -11,11 +11,28 @@
 * list item 1
 * list item 2
 
+1. list item 1
+2. list item 2
+
 *italic* **bold** ***bolditalic***
 
 ---
 [Github Profile](https://github.com/Lawlie01)
 
 ----
-![Resmi görüntülemek için](https://i.pinimg.com/originals/f0/af/cb/f0afcbce7ed4a7df7b822964501bf995.jpg)
+![Luffy](https://i.pinimg.com/originals/f0/af/cb/f0afcbce7ed4a7df7b822964501bf995.jpg)
 
+![Markdown Simgesi](https://commonmark.org/help/images/favicon.png)
+
+```python
+print("Hello World")
+```
+```javascript
+console.log("Hello World")
+function helloWorld() {
+    console.log("Hello World")
+}
+```
+
+***
+> "`" işareti için ALT+noktalı virgül ile yapılabilir. - Yazılım dillerine göre isimleri belirtirsek ona göre düzenleme de bulunuyor. ÖRN (Python, Javascript, vs.)
